@@ -9,3 +9,13 @@ N‰sta vecka ska vi forts‰tta jobba med projektet
 
 Vecka 16: Tobias var sjuk idag sÂ jag jobbade med kompletering (crop-OOP)
 Under veckan fÂr vi ta tillbaka det vi missat och n‰sta vecka jobbar vi pÂ med kodning. 
+
+Vecka 17: Tobias dator har fått fnatt så vi fick använda lektionen för att fixa in projektet på github så att jag kunde få tag på det via min dator.
+
+Vecka 18: Jobbat framåt med att få våra ratingbuttons att funka.
+
+Vecka 19: gjort inprincip samma som förra veckan.
+
+Vecka 20: Jag har idag jobbat med Crop kompletteringen för att jag kände att projektet börjar närma sig en färdigställd app.
+
+Vecka 21: Färdigställt projektet genom att lägga in en loop som gör så att vi har 5 knappar istället för 1, get knapparna emptyStar bild samt filledStar bild för att ge möjlighet att fylla i knapparna och därav ge en rating. Jag har skrivit in koden för att koppla dessa bilder så att om man klickar på en stjärna, t.ex. 4 stjärnan så fylls alla 4 första stjärnorna i. 
